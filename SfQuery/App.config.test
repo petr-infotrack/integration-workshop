@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5.2" />
+    </startup>
+    <appSettings>
+      <add key="username" value="salesforce.connector@leap.com.au.leapsand" />
+      <add key="password" value="leapsalesforce01" />
+      <add key="token" value="If2LxTi7zXuFVeZ3VCkBJ7Awu" />
+      <add key="clientId" value="3MVG9rKhT8ocoxGl09TZ7nrradCGQKDk0.cpfyIU.4NqArx9rnHMixR8QoTAaYKRj.Kd9JzZokwupYMKAyZKh" />
+      <add key="clientSecret" value="3671345108406644680" />
+    </appSettings>
+</configuration>
